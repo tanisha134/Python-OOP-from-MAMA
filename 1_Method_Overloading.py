@@ -10,7 +10,9 @@ class Math:
 ADD = Math()
 
 print("Summation of a = ",ADD.add(5))
+#method Overloadig
 print("Summation of a and b = ",ADD.add(10, 10))
+#method Overloadig
 print("Summation of a, b and c = ",ADD.add(10, 20,30))
 
 
