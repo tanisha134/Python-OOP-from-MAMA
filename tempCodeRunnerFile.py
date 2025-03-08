@@ -1,0 +1,1 @@
+irl.change_school("BMS")
